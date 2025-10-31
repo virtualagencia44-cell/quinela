@@ -1,0 +1,5 @@
+{
+  "name": "Terminal de Quiniela",
+  "description": "Una aplicación web que simula una terminal de apuestas para la Quiniela Argentina, con carga de apuestas, reportes y resultados dinámicos.",
+  "requestFramePermissions": []
+}
